@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DebuggerTest/DebuggerTest.iml" filepath="$PROJECT_DIR$/DebuggerTest/DebuggerTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/GitTest01.iml" filepath="$PROJECT_DIR$/GitTest01.iml" />
       <module fileurl="file://$PROJECT_DIR$/testModule/testModule.iml" filepath="$PROJECT_DIR$/testModule/testModule.iml" />
     </modules>
